@@ -23,4 +23,4 @@ void swapValues (int &num1, int &num2, int &num3) {
 void SwapValues ( int &num1, int &num2, int &num3, int &num4) {
     swapValues(num1,num4);
     swapValues(num2,num3);
-}
+} 
